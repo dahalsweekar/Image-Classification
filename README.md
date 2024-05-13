@@ -6,9 +6,9 @@ for prediction.
 
 # API
 
-| Method  | Route | Functionality | Access |
-| ------------- | ------------- | ------------- | ------------- |
-| POST | */predict/* | Predict image | All user |
+| Method  | Route | Functionality | 
+| ------------- | ------------- | ------------- | 
+| POST | */predict/* | Predict image | 
 
 # Training/Evaluation
 
